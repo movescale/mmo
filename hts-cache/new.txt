@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:34:25	78/78	---MCZ	200	added ('OK')	text/plain	etag:W/%2243-5c333320cc780%22	https://mmoswap.org/robots.txt		(from )
+12:34:25	4092/4092	---MCZ	200	added ('OK')	text/html	date:Wed,%2026%20May%202021%2003:27:17%20GMT	https://mmoswap.org/	C:/My%20Web%20Sites/mmo/mmoswap.org/index.html	(from )
+12:34:27	3770/3770	---M--	200	added ('OK')	image/png	etag:%22eba-5c333320cc780%22	https://mmoswap.org/favicon.png	C:/My%20Web%20Sites/mmo/mmoswap.org/favicon.png	(from https://mmoswap.org/)
+12:34:27	4092/4092	---MCZ	200	added ('OK')	text/html	date:Wed,%2026%20May%202021%2003:27:17%20GMT	https://mmoswap.org/logo.png	C:/My%20Web%20Sites/mmo/mmoswap.org/logo.html	(from https://mmoswap.org/)
+12:34:27	318/318	---MCZ	200	added ('OK')	application/json	etag:W/%2213e-5c333320cc780%22	https://mmoswap.org/manifest.json	C:/My%20Web%20Sites/mmo/mmoswap.org/manifest.json	(from https://mmoswap.org/)
+12:34:28	1886284/1886284	---MCZ	200	added ('OK')	application/javascript	etag:%221cc84c-5c33338306f40-gzip%22	https://mmoswap.org/static/js/6.7df2fff9.chunk.js	C:/My%20Web%20Sites/mmo/mmoswap.org/static/js/6.7df2fff9.chunk.js	(from https://mmoswap.org/)
+12:34:29	49557/49557	---M-Z	200	added ('OK')	application/javascript	etag:%22c195-5c33338306f40-gzip%22	https://mmoswap.org/static/js/main.ae38dedf.chunk.js	C:/My%20Web%20Sites/mmo/mmoswap.org/static/js/main.ae38dedf.chunk.js	(from https://mmoswap.org/)
